@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot-mrcrypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Racks-Community/discord-bot.git"
+  },
+  "author": "Javiito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Racks-Community/discord-bot/issues"
+  },
+  "homepage": "https://github.com/Racks-Community/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
