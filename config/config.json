@@ -1,0 +1,39 @@
+{
+    "secretToken": "CHANGEME",
+    "logChannel": "CHANGEME",
+    "serverId": "CHANGEME",
+    "forbiddenNicks": ["MrCrypto", "Mr. Crypto", "Mr.Crypto", "Mr,Crypto", "Mr, Crypto", "Mr Crypto", "Yametee"],
+    "tooMuchConnections": 1,
+    "minutesForArrayClean": 1,
+    "maxAttemps": 3,
+    "captchas": [
+        {
+            "image": "https://uh.edu/engines/3043-Captcha-smwm.svg.png",
+            "code": "smwm"
+        },
+        {
+            "image": "https://www.technotification.com/wp-content/uploads/2014/12/captcha.jpg",
+            "code": "qGphJD"
+        }
+    ],
+    "captchaEmbed": {
+        "title": "Captacha",
+        "color": 5111642,
+        "description": "Hola! Actualmente hay una gran afluencia en el discord y vamos a necesitar que nos contestes a este mensaje con el código que ves en esta imagen:",
+        "timestamp": "",
+        "author": {
+          "name": "Mr. Crypto",
+          "url": "https://metaverse.racksmafia.com/"
+        },
+        "image": {
+          "url": "captcha.image"
+        },
+        "thumbnail": {
+          "url": ""
+        },
+        "footer": {
+          "text": "Nunca te vamos a solicitar tu frase semilla o vinculaciones de cartera através de DM sin que lo solicites, siempre comprueba que el bot sea el mismo que esta presente en el servidor Oficial, incluido el #1234"
+        },
+        "fields": []
+    }
+}
